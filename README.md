@@ -1,5 +1,5 @@
 # Chlorina-f2
-The Role of Chlorophyll b in Barley, Hordeum Vulgare, and the Chlorophyll b-less Mutant, Chlorina f2, in Photosynthesis and Photoprotection
+The Role of Chlorophyll b in Barley, Hordeum Vulgare, and the Chlorophyll b-less Mutant, Chlorina f2, in Photosynthesis and Photoprotection.
 
 The Chlorina f2 (clo f2) mutant of barley, Hordeum vulgare, is defective in the enzyme chlorophyll a oxygenase and thus, clo f2 lacks chlorophyll b (Nezval et al., 2017). Under “non-stress”, normal light and temperature conditions clo f2 plants function similar to wild type (WT)  plants, however they are slower to grow and produce fewer and smaller seeds (Nezval et al., 2017). While under light stress, the difference is more pronounced and clo f2 plants appear pale and are stunted (Ghirardi et al., 1986). 
 
